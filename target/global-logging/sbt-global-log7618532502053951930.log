@@ -1,0 +1,6 @@
+[debug] > Exec(libraryDependencies += "org.mongodb.scala" %% "mongo-scala-bson" % "2.9.0", None, None)
+[error] Expected whitespace character
+[error] Expected '/'
+[error] libraryDependencies += "org.mongodb.scala" %% "mongo-scala-bson" % "2.9.0"
+[error]                     ^
+[debug] > Exec(idea-shell, None, None)

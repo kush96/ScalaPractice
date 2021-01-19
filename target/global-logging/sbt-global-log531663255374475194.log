@@ -1,0 +1,12 @@
+[debug] > Exec(clean compile, None, None)
+[warn] build source files have changed
+[warn] modified files: 
+[warn]   C:\Users\KushPC\Desktop\ScalaProject\build.sbt
+[warn] Apply these changes by running `reload`.
+[warn] Automatically reload the build when source changes are detected by setting `Global / onChangedBuildSource := ReloadOnSourceChanges`.
+[warn] Disable this warning by setting `Global / onChangedBuildSource := IgnoreSourceChanges`.
+[error] Expected whitespace character
+[error] Expected '/'
+[error] clean compile
+[error]       ^
+[debug] > Exec(idea-shell, None, None)
